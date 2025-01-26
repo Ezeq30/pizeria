@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "imagen": "/img/muza.jpg",
+      "nombre": "Muzzarella",
+      "precio": 220
+    },
+    {
+      "id": 2,
+      "imagen": "/img/napolitana.jpg",
+      "nombre": "Napolitana",
+      "precio": 200
+    },
+    {
+      "id": 3,
+      "imagen": "/img/calabresa.jpg",
+      "nombre": "Calabresa",
+      "precio": 280
+    },
+    {
+      "id": 4,
+      "imagen": "/img/jym.jpg",
+      "nombre": "Jamon/Morron",
+      "precio": 350
+    },
+    {
+      "id": 5,
+      "imagen": "/img/anchoas.jpg",
+      "nombre": "Anchoas",
+      "precio": 320
+    },
+    {
+      "id": 6,
+      "imagen": "/img/salchichas.jpg",
+      "nombre": "Salchicas",
+      "precio": 140
+    },
+    {
+      "id": 7,
+      "imagen": "/img/anana.jpg",
+      "nombre": "Anana",
+      "precio": 270
+    },
+    {
+      "id": 8,
+      "imagen": "/img/peperoni.jpg",
+      "nombre": "Peperoni",
+      "precio": 200
+    },
+    {
+      "id": 9,
+      "imagen": "/img/huevo.jpg",
+      "nombre": "Huevo",
+      "precio": 310
+    },
+    {
+      "id": 10,
+      "imagen": "/img/mixta.jpg",
+      "nombre": "Mixta",
+      "precio": 650
+    }
+   
+    
+  ]
