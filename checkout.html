@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Venta de Frutas</title>
+    <title>Pizeria</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
     <link rel="stylesheet" href="css/style.css">
@@ -16,6 +16,7 @@
 
 <body>
     <nav class="barraMenu">
+        <!-- <img src="./img/logo.png" height="20px" width="20px"> -->
         <ul>
             <li>
                 <a href="/">Home</a>
@@ -55,8 +56,10 @@
         </ul>
     </nav>
     <header>
-        <h1>Ya casi es tuya</h1>
-        <p>Verifica tus productos antes de confirmar la compra :</p>
+        <div id="titulo">
+            <h1>Ya Casi Es Tuya</h1>
+            <p>Verifica tus productos antes de confirmar la compra :</p>
+        </div>
         <div class="centrar-div">
             <button class="button button-outline"><a href="productos.html">Seguir comprando</a></button>
         </div>
@@ -70,15 +73,20 @@
                         <th id="tablehead">Producto</th>
                         <th id="tablehead">Descripción</th>
                         <th id="tablehead">Importe</th>
+                        <th id="tablehead">Unidad</th>
                         <th id="tablehead">Quitar</th>
                     </tr>
-                </thead>
                 <tbody>
 
                 </tbody>
+                </thead>
             </table>
         </section>
+        <!-- <div>
+            <h2 class="total">El total es :</h2>
+        </div> -->
         <div class="centrar-div">
+
             <button class="button" id="btnComprar">COMPRAR</button>
             <button class="button" id="btnVaciarCarrito">Vaciar carrito</button>
         </div>
